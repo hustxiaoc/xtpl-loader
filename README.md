@@ -6,7 +6,7 @@ Xtemplate webpack loader
 {
   test: /\.(html|xtpl)/,
   use: [{
-    loader: 'xtpl-loader',
+    loader: 'xtemplate-loader',
   }]
 },
 ```

@@ -1,10 +1,9 @@
 {
-  "name": "xtpl-loader",
+  "name": "xtemplate-loader",
   "version": "1.0.0",
   "description": "xtemplate webpack loader",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "xtemplate",
