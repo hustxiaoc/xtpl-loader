@@ -1,0 +1,18 @@
+{
+  "name": "xtpl-loader",
+  "version": "1.0.0",
+  "description": "xtemplate webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xtemplate",
+    "webpack"
+  ],
+  "author": "308512341@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "xtemplate": "^3.5.2"
+  }
+}
