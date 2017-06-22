@@ -1,6 +1,6 @@
 {
   "name": "xtemplate-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xtemplate webpack loader",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "308512341@qq.com",
   "license": "ISC",
   "dependencies": {
-    "xtemplate": "^3.5.2"
+    "xtemplate": "~3.5.2"
   }
 }
